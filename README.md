@@ -12,4 +12,12 @@
 下載ubuntu檔案並設定Oracle VM VirtualBox: [oracle setup](https://steemit.com/vm/@oneleo/oracle-vm-virtualbox-ubuntu-18-04-desktop)
 
 檢查系統
->test
+全部硬體:
+```
+sudo lshw
+```
+CPU 而已:
+
+```
+sudo lscpu
+```
