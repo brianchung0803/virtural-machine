@@ -1,4 +1,4 @@
-# 在windows安裝ubuntu18.04 virtual machine的紀錄
+:pushpin: 紀錄在windows安裝ubuntu18.04 virtual machine
 
 
 ![GITHUB](https://miro.medium.com/max/489/1*22qh56wZ1yspqwXnvyX9hw.png)
